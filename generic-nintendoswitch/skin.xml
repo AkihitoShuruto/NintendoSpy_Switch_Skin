@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Nintendo Switch" author="akihitoshuruto" type="generic">
+
+    <background name="Default" image="switch_pad.png" />
+
+    <button name="b0" image="circle.png" x="217" y="77" width="20" height="20" />
+    <button name="b1" image="circle.png" x="240" y="57" width="20" height="20" />
+    <button name="b2" image="circle.png" x="195" y="57" width="20" height="20" />
+    <button name="b3" image="circle.png" x="217" y="37" width="20" height="20" />
+
+    <button name="b4" image="circle.png" x="61" y="2" width="30" height="14" />
+    <analog name="z" image="trig-r.png" x="265" y="18"
+            direction="up" reverse="true" usenegative="true" />
+
+    <button name="b5" image="circle.png" x="213" y="2" width="30" height="14" />
+    <analog name="z" image="trig-l.png" x="11" y="18"
+            direction="up" reverse="true" />
+
+    <button name="b7" image="circle.png" x="181" y="39" width="10" height="10" />
+    <button name="b6" image="circle.png" x="110" y="39" width="10" height="10" />
+
+    <button name="b8" image="circle.png" x="49" y="28" width="42" height="42" />
+    <button name="b9" image="circle.png" x="170" y="75" width="42" height="42" />
+
+    <button name="up"    image="circle.png" x="99" y="88" width="12" height="12" />
+    <button name="down"  image="circle.png" x="99" y="114" width="12" height="12" />
+    <button name="left"  image="circle.png" x="84" y="102" width="12" height="12" />
+    <button name="right" image="circle.png" x="114" y="102" width="12" height="12" />
+
+    <stick xname="x" yname="y" image="stick.png"
+           x="53" y="49" width="34" height="35" xrange="9" yrange="9" yreverse="true" />
+    <stick xname="rx" yname="ry" image="stick.png"
+           x="172" y="90" width="34" height="35" xrange="9" yrange="9" yreverse="true" />
+
+</skin>
